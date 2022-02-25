@@ -7,6 +7,10 @@ body{
     background-color: rebeccapurple
 
 }
+img.lado{
+    float: right;
+}
+
 main {
     background-color: aliceblue;
     width: 500;
